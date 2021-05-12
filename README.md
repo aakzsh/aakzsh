@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm aakash 
-- 🔭 I’m currently working on ...
-   myself
+- 🔭 I’m currently working on ...<br>
+   myself<br>
    and idk how to make a fancy readme
 
 <!--
