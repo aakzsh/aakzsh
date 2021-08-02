@@ -3,12 +3,9 @@
 
    <br>
 
-<div width="100%"> 
+
 
 <img src= "https://github-readme-stats.vercel.app/api?username=aakzsh&show_icons=true&theme=radical" width="100%" />
 
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakzsh&hide=python,tcl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakzsh&hide=python,tcl&theme=radical" /> 
 
