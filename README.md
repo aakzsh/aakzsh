@@ -1,6 +1,8 @@
-# heyo
-
+### Hi there 👋
 <img src="lol.gif" alt="edit1" width="100%">
-<br>
-<img src="unknown.png" alt="edit1" width="49.5%"> <img src="unknown.png" alt="edit1" width="49.5%">
-<img src="unknown.png" alt="edit1" width="49.5%"> <img src="unknown.png" alt="edit1" width="49.5%">
+
+   <br>
+![aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakzsh&show_icons=true&theme=radical)
+![aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakzsh&show_icons=true&theme=radical)
+![aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakzsh&show_icons=true&theme=radical)
+![aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakzsh&show_icons=true&theme=radical)
