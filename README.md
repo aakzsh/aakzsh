@@ -5,7 +5,7 @@
 
 <div width="100%"> 
 
-![aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakzsh&show_icons=true&theme=radical) 
+![aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakzsh&show_icons=true&theme=radical|width=100% ) 
 
 </div>
 
