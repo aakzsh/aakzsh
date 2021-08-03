@@ -7,7 +7,7 @@
 
 <img src= "https://github-readme-stats.vercel.app/api?username=aakzsh&show_icons=true&theme=radical" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakzsh&hide=python,tcl&theme=radical" height="500px"/> <img src="hehe.gif" alt="edit2" height = "500px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakzsh&hide=python,tcl&theme=radical" height="300px"/> <img src="hehe.gif" alt="edit2" height = "300px">
 
 
 
